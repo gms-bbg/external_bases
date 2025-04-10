@@ -42,3 +42,16 @@ H     1.0   -14.48970    -1.19363    -5.00909
 O     8.0   -14.93970    -1.94363    -5.49909
  $END
 ````
+
+## Basis sets included in def2
+Defined for all elements shown in the basis set exchange. 
+```
+!   Basis set: def2-SVP
+!   Basis set: def2-SVPD
+!   Basis set: def2-TZVP
+!   Basis set: def2-TZVPD
+!   Basis set: def2-TZVPP
+!   Basis set: def2-QZVP
+!   Basis set: def2-QZVPP
+!   Basis set: def2-QZVPPD
+```
